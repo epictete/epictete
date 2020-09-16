@@ -10,3 +10,5 @@ Welcome to my GitHub Profile :tada:
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/john-laterre/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: The odds of getting a royal flush are exactly 1 in 649,740 :black_joker:
+
+[![Epictete's github stats](https://github-readme-stats.vercel.app/api?username=epictete)](https://github.com/anuraghazra/github-readme-stats)
