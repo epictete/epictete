@@ -1,16 +1,12 @@
-### Hi there 👋
+## Hello there 👋
 
-<!--
-**epictete/epictete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub Profile :tada:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on becoming a Web Developer @ BeCode.org :octocat:
+- 🌱 I’m currently learning everything I can about coding :metal:
+- 👯 I’m looking to collaborate on interesting projects in order to learn new skills :rocket:
+- 🤔 I’m looking for help with becoming a better human being :slightly_smiling_face:
+- 💬 Ask me about anything, I love interesting conversations !
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/john-laterre/)
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: The odds of getting a royal flush are exactly 1 in 649,740 :black_joker:
