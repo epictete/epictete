@@ -5,7 +5,10 @@ I hope it will be worth your time :white_check_mark:
 After working for over 10 years in the constuction business I decided to think really hard about what I was truly passionate about and what would give meaning to my carrer :heart:  
 That's what brought me to quit my job and start a new adventure as a web developer :computer: :100:
 
-- 📫 How to reach me: &nbsp; [<img height="24" width="24" src="./img/linkedin.svg" />](https://www.linkedin.com/in/john-laterre/) &nbsp; &nbsp; [<img height="24" width="24" src="./img/gmail.svg" />](mailto:john.laterre@gmail.com)
+### How to reach me:
+LinkedIn | Gmail
+---------|--------
+[<img height="24" width="24" src="./img/linkedin.svg" />](https://www.linkedin.com/in/john-laterre/) | [<img height="24" width="24" src="./img/gmail.svg" />](mailto:john.laterre@gmail.com)
 
 ### Skills
 
@@ -13,7 +16,7 @@ That's what brought me to quit my job and start a new adventure as a web develop
 ----------|----------|--------|----------
 <img height="32" width="32" src="./img/html5.svg" /> | <img height="32" width="32" src="./img/php.svg" /> | <img height="32" width="32" src="./img/linux.svg" /> | <img height="32" width="32" src="./img/git.svg" />
 <img height="32" width="32" src="./img/css3.svg" /> | <img height="32" width="32" src="./img/mysql.svg" /> | <img height="32" width="32" src="./img/ubuntu.svg" /> | <img height="32" width="32" src="./img/github.svg" />
-<img height="32" width="32" src="./img/javascript.svg" /> | <img height="32" width="32" src="./img/python.svg" /> | <img height="32" width="32" src="./img/apple.svg" />
-|  |  | <img height="32" width="32" src="./img/windows.svg" /> | <img height="32" width="32" src="./img/visualstudiocode.svg" />
+<img height="32" width="32" src="./img/javascript.svg" /> | <img height="32" width="32" src="./img/python.svg" /> | <img height="32" width="32" src="./img/apple.svg" /> | <img height="32" width="32" src="./img/visualstudiocode.svg" />
+|  |  | <img height="32" width="32" src="./img/windows.svg" />
 
 
