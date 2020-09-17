@@ -11,6 +11,15 @@ Welcome to my GitHub Profile :tada:
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: The odds of getting a royal flush are exactly 1 in 649,740 :black_joker:
 
+### Languages
+
+<img height="32" width="32" src="./img/javascript.svg" />
+<img height="32" width="32" src="./img/python.svg" />
+<img height="32" width="32" src="./img/mysql.svg" />
+<img height="32" width="32" src="./img/php.svg" />
+<img height="32" width="32" src="./img/html5.svg" />
+<img height="32" width="32" src="./img/css3.svg" />
+
 ![Epictete's github stats](https://github-readme-stats.vercel.app/api?username=epictete&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epictete&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
