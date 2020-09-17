@@ -1,13 +1,13 @@
 ## Hello there 👋
 
-I am glad you landed on my profile page :slightly_smiling_face:
-I hope it will be worth your time :white_check_mark:
-After working for over 10 years in the constuction business I decided to think really hard about what I was truly passionate about and what would give meaning to my carrer :heart:
+I am glad you landed on my profile page :slightly_smiling_face:  
+I hope it will be worth your time :white_check_mark:  
+After working for over 10 years in the constuction business I decided to think really hard about what I was truly passionate about and what would give meaning to my carrer :heart:  
 That's what brought me to quit my job and start a new adventure as a web developer :computer: :100:
 
-- 📫 How to reach me:
-[<img height="32" width="32" src="./img/linkedin.svg" />](https://www.linkedin.com/in/john-laterre/)
-[<img height="32" width="32" src="./img/gmail.svg" />](mailto:john.laterre@gmail.com)
+- 📫 How to reach me:  
+[<img height="26" width="26" src="./img/linkedin.svg" />](https://www.linkedin.com/in/john-laterre/)  
+[<img height="26" width="26" src="./img/gmail.svg" />](mailto:john.laterre@gmail.com)
 
 ### Skills
 
