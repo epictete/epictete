@@ -5,6 +5,10 @@ I hope it will be worth your time :white_check_mark:
 After working for over 10 years in the constuction business I decided to think really hard about what I was truly passionate about and what would give meaning to my career :heart:  
 That's what brought me to quit my job and start a new adventure as a web developer :computer: :100:
 
+### BeCode
+- [Challenges](becode-challenges.md)
+- [Learning](becode-learning.md)
+
 ### How to reach me:
 LinkedIn | Gmail
 ---------|--------
