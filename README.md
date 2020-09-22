@@ -6,6 +6,8 @@ After working for over 10 years in the constuction business I decided to think r
 That's what brought me to quit my job and start a new adventure as a web developer :computer: :100:
 
 ### BeCode Training
+
+Follow my journey as I become a developer!
 - [Challenges](becode-challenges.md)
 - [Learning](becode-learning.md)
 
