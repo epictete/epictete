@@ -1,3 +1,27 @@
-# BeCode Training
-
-1. [Exercice-Cadavre-Exquis-John](https://github.com/epictete/Exercice-Cadavre-Exquis-John/blob/master/README.md)
+# BeCode
+## Challenges
+1. [hackers-poulette](https://github.com/epictete/hackers-poulette)
+1. [js-datavisualisation-challenge](https://github.com/epictete/js-datavisualisation-challenge)
+1. [Hangman](https://github.com/epictete/Hangman)
+1. [restaurant-css-framework](https://github.com/epictete/restaurant-css-framework)
+1. [turlututu](https://github.com/epictete/turlututu)
+## Training
+1. [wordpress](https://github.com/epictete/wordpress)
+1. [sql](https://github.com/epictete/sql)
+1. [php-fundamentals](https://github.com/epictete/php-fundamentals)
+1. [JasmineCheck](https://github.com/epictete/JasmineCheck)
+1. [ajax-simple-web-service-request](https://github.com/epictete/ajax-simple-web-service-request)
+1. [The-Hill-JS](https://github.com/epictete/The-Hill-JS)
+1. [bootstrap-training](https://github.com/epictete/bootstrap-training)
+1. [algo-js](https://github.com/epictete/algo-js)
+1. [becode-animation-css](https://github.com/epictete/becode-animation-css)
+1. [learning-sass](https://github.com/epictete/learning-sass)
+1. [Star-Wars-Crawl](https://github.com/epictete/Star-Wars-Crawl)
+1. [tim-berners-lee](https://github.com/epictete/tim-berners-lee)
+1. [404-Page](https://github.com/epictete/404-Page)
+1. [ulb](https://github.com/epictete/ulb)
+1. [Learning-Environment](https://github.com/epictete/Learning-Environment)
+1. [progressive-enhancement](https://github.com/epictete/progressive-enhancement)
+1. [test](https://github.com/epictete/test)
+1. [epictete.github.io](https://github.com/epictete/epictete.github.io)
+1. [Exercice-Cadavre-Exquis-John](https://github.com/epictete/Exercice-Cadavre-Exquis-John)
