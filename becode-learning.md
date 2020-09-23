@@ -1,7 +1,9 @@
 # BeCode Training
+1. [wp_becode](https://github.com/epictete/wp_becode)
 1. [wordpress](https://github.com/epictete/wordpress)
 1. [sql](https://github.com/epictete/sql)
 1. [php-fundamentals](https://github.com/epictete/php-fundamentals)
+1. [PewPew](https://github.com/epictete/PewPew)
 1. [JasmineCheck](https://github.com/epictete/JasmineCheck)
 1. [ajax-simple-web-service-request](https://github.com/epictete/ajax-simple-web-service-request)
 1. [The-Hill-JS](https://github.com/epictete/The-Hill-JS)
