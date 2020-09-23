@@ -1,5 +1,5 @@
 # BeCode Training
-Repo | Status | Skill
+Repo | Status | Skills
 -----|--------|--------
 [wp_becode](https://github.com/epictete/wp_becode) | :white_check_mark: | <img height="32" width="32" src="./img/wordpress.svg" />
 [wordpress](https://github.com/epictete/wordpress) | :white_check_mark: | <img height="32" width="32" src="./img/wordpress.svg" />
