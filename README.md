@@ -5,13 +5,13 @@ I hope it will be worth your time :white_check_mark:
 After working for over 10 years in the constuction business I decided to think really hard about what I was truly passionate about and what would give meaning to my career :heart:  
 That's what brought me to quit my job and start a new adventure as a web developer :100:
 
-### BeCode Training
+### My journey as I become a developer :computer:
 
-Follow my journey as I become a developer! :computer:
+#### BeCode Training
 - [Challenges](becode-challenges.md)
 - [Learning](becode-learning.md)
 
-### Personal Projects
+#### Personal Projects
 - [Personal Projects](personal-projects.md)
 
 ### How to reach me:
