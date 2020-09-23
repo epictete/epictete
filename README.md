@@ -9,6 +9,9 @@ That's what brought me to quit my job and start a new adventure as a web develop
 - [Challenges](becode-challenges.md)
 - [Learning](becode-learning.md)
 
+### Personal Projects
+- [Personal Projects](personal-projects.md)
+
 ### How to reach me:
 LinkedIn | Gmail
 ---------|--------
