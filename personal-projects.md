@@ -1,5 +1,4 @@
 # Personal Projects
-
 Repo | Status | Skills
 -----|--------|--------
 [shareposts](https://github.com/epictete/shareposts) | :white_check_mark: | <img height="32" width="32" src="./img/php.svg" />
