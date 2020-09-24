@@ -22,9 +22,9 @@ LinkedIn | Gmail
 ## Skills
 **Front** | **Back** | **OS** | **MISC**
 ----------|----------|--------|----------
-<img height="32" width="32" src="./img/html5.svg" /> | <img height="32" width="32" src="./img/php.svg" /> | <img height="32" width="32" src="./img/linux.svg" /> | <img height="32" width="32" src="./img/git.svg" />
-<img height="32" width="32" src="./img/css3.svg" /> | <img height="32" width="32" src="./img/mysql.svg" /> | <img height="32" width="32" src="./img/ubuntu.svg" /> | <img height="32" width="32" src="./img/github.svg" />
-<img height="32" width="32" src="./img/javascript.svg" /> | <img height="32" width="32" src="./img/python.svg" /> | <img height="32" width="32" src="./img/apple.svg" /> | <img height="32" width="32" src="./img/visualstudiocode.svg" />
-|  |  | <img height="32" width="32" src="./img/windows.svg" />
+<img height="32" width="32" src="./img/react.svg" /> | <img height="32" width="32" src="./img/php.svg" /> | <img height="32" width="32" src="./img/linux.svg" /> | <img height="32" width="32" src="./img/git.svg" />
+<img height="32" width="32" src="./img/javascript.svg" /> | <img height="32" width="32" src="./img/mysql.svg" /> | <img height="32" width="32" src="./img/apple.svg" /> | <img height="32" width="32" src="./img/visualstudiocode.svg" />
+<img height="32" width="32" src="./img/html5.svg" /> | <img height="32" width="32" src="./img/python.svg" /> | <img height="32" width="32" src="./img/windows.svg" /> |
+<img height="32" width="32" src="./img/css3.svg" /> |  |  |
 
 
