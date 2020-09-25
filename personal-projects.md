@@ -1,6 +1,7 @@
 # Personal Projects
 Repo | Status | Skills
 -----|--------|--------
+[react-todo](https://github.com/epictete/react-todo) | :white_check_mark: | <img height="32" width="32" src="./img/react.svg" />
 [shareposts](https://github.com/epictete/shareposts) | :white_check_mark: | <img height="32" width="32" src="./img/php.svg" />
 [mvc](https://github.com/epictete/mvc) | :white_check_mark: | <img height="32" width="32" src="./img/php.svg" />
 [mongodb](https://github.com/epictete/mongodb) | :white_check_mark: | <img height="32" width="32" src="./img/mongodb.svg" />
