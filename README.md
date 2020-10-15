@@ -32,4 +32,4 @@ Follow my journey as I become a developer :
 | <img height="32" width="32" src="./img/javascript.svg" /> | <img height="32" width="32" src="./img/mongodb.svg" />     | <img height="32" width="32" src="./img/apple.svg" />   | <img height="32" width="32" src="./img/visualstudiocode.svg" /> |
 | <img height="32" width="32" src="./img/html5.svg" />      | <img height="32" width="32" src="./img/php.svg" />         | <img height="32" width="32" src="./img/windows.svg" /> |
 | <img height="32" width="32" src="./img/css3.svg" />       | <img height="32" width="32" src="./img/mysql.svg" />       |                                                        |
-| <img height="32" width="32" src="./img/python.svg" />     |                                                            |
+|                                                           | <img height="32" width="32" src="./img/python.svg" />      |                                                        |
