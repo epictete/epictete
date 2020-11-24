@@ -11,7 +11,7 @@ Follow my journey as I become a developer :
 
 #### Harvard's CS50
 
--   [CS50x](cs50x.md)
+-   [CS50](cs50.md)
 
 #### BeCode Training
 
