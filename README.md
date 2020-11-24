@@ -24,9 +24,9 @@ Follow my journey as I become a developer :
 
 ## How to reach me :mailbox:
 
-| LinkedIn                                                                                             | Gmail                                                                                 |
+| **LinkedIn**                                                                                         | **Gmail**                                                                             |
 | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| [<img height="24" width="24" src="./img/linkedin.svg" />](https://www.linkedin.com/in/john-laterre/) | [<img height="24" width="24" src="./img/gmail.svg" />](mailto:john.laterre@gmail.com) |
+| [<img height="32" width="32" src="./img/linkedin.svg" />](https://www.linkedin.com/in/john-laterre/) | [<img height="32" width="32" src="./img/gmail.svg" />](mailto:john.laterre@gmail.com) |
 
 ## Skills :computer:
 
