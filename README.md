@@ -9,6 +9,10 @@ That's what brought me to quit my job and start a new adventure as a web develop
 
 Follow my journey as I become a developer :
 
+#### Harvard's CS50
+
+-   [CS50x](cs50x.md)
+
 #### BeCode Training
 
 -   [Challenges](becode-challenges.md)
@@ -26,7 +30,7 @@ Follow my journey as I become a developer :
 
 ## Skills :computer:
 
-| **Front**                                                 | **Back**                                                   | **OS**                                                 | **MISC**                                                        |
+| **Front**                                                 | **Back**                                                   | **OS**                                                 | **Misc**                                                        |
 | --------------------------------------------------------- | ---------------------------------------------------------- | ------------------------------------------------------ | --------------------------------------------------------------- |
 | <img height="32" width="32" src="./img/react.svg" />      | <img height="32" width="32" src="./img/python.svg" />      | <img height="32" width="32" src="./img/linux.svg" />   | <img height="32" width="32" src="./img/c.svg" />                |
 | <img height="32" width="32" src="./img/javascript.svg" /> | <img height="32" width="32" src="./img/flask.svg" />       | <img height="32" width="32" src="./img/apple.svg" />   | <img height="32" width="32" src="./img/git.svg" />              |
