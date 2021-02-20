@@ -2,8 +2,6 @@
 
 | Repo                                                                     | Status             | Skills                                                                                                                                                               |
 | ------------------------------------------------------------------------ | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [binary-search-c](https://github.com/epictete/binary-search-c) | :white_check_mark: | <img height="32" width="32" src="./img/c.svg" /> |
-| [sorting-algo-c](https://github.com/epictete/sorting-algo-c) | :white_check_mark: | <img height="32" width="32" src="./img/c.svg" /> |
 | [mern-expense-tracker](https://github.com/epictete/expense-tracker-mern) | :white_check_mark: | <img height="32" width="32" src="./img/mongodb.svg" /><img height="32" width="32" src="./img/react.svg" /><img height="32" width="32" src="./img/node-dot-js.svg" /> |
 | [react-todo](https://github.com/epictete/react-todo)                     | :white_check_mark: | <img height="32" width="32" src="./img/react.svg" />                                                                                                                 |
 | [shareposts](https://github.com/epictete/shareposts)                     | :white_check_mark: | <img height="32" width="32" src="./img/php.svg" />                                                                                                                   |

@@ -7,7 +7,11 @@ That's what brought me to quit my job and start a new adventure as a software de
 
 ## My journey :school_satchel:
 
-Follow my journey as I become a developer :
+Follow my journey as I become a software developer :
+
+#### C Programming
+
+-   [C](c.md)
 
 #### Harvard's CS50
 
