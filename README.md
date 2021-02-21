@@ -9,9 +9,10 @@ That's what brought me to quit my job and start a new adventure as a software de
 
 Follow my journey as I become a software developer :
 
-#### C Programming
+#### Data Structures and Algorithms
 
--   [C](c.md)
+-   [C Programming](c.md)
+-   [Dynamic Programming](https://github.com/epictete/dynamic-programming)
 
 #### Harvard's CS50
 
