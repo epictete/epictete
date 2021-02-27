@@ -20,9 +20,9 @@
 
 #### Mathematics
 
-| Repo                                           | Status         | Skills                                           |
-| ---------------------------------------------- | -------------- | ------------------------------------------------ |
-| [maths-c](https://github.com/epictete/maths-c) | :construction: | <img height="32" width="32" src="./img/c.svg" /> |
+| Repo                                           | Status             | Skills                                           |
+| ---------------------------------------------- | ------------------ | ------------------------------------------------ |
+| [maths-c](https://github.com/epictete/maths-c) | :white_check_mark: | <img height="32" width="32" src="./img/c.svg" /> |
 
 #### Data Structures
 
