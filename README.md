@@ -9,6 +9,10 @@ That's what brought me to quit my job and start a new adventure as a software de
 
 Follow my journey as I become a software developer :
 
+#### Codewars
+
+- [Codewars in Python](https://github.com/epictete/codewars-python)
+
 #### Data Structures and Algorithms
 
 -   [C Programming](c.md)
