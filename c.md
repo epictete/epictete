@@ -28,4 +28,4 @@
 
 | Repo                                                               | Status         | Skills                                           |
 | ------------------------------------------------------------------ | -------------- | ------------------------------------------------ |
-| [data-structures-c](https://github.com/epictete/data-structures-c) | :construction: | <img height="32" width="32" src="./img/c.svg" /> |
+| [data-structures-c](https://github.com/epictete/data-structures-c) | :white_check_mark: | <img height="32" width="32" src="./img/c.svg" /> |
